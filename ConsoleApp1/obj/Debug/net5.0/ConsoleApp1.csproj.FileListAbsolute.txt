@@ -1,0 +1,16 @@
+E:\рандомные программы\C#\C#-test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\рандомные программы\C#\C#-test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\рандомные программы\C#\C#-test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\рандомные программы\C#\C#-test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\рандомные программы\C#\C#-test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\рандомные программы\C#\C#-test\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\рандомные программы\C#\C#-test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\рандомные программы\C#\C#-test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
